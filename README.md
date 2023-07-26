@@ -6,7 +6,7 @@
 - 📫 Contato: gustavodiego298@gmail.com
 - 😄 Pronouns: Ele/dele
 
-- 
+  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoDiego)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoDiego&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
