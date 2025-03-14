@@ -2,7 +2,7 @@
 
 
 - 🔭 Graduação: Graduando em Sistemas de informação
-- 🌱 Estudando: SQL
+- 🌱 Estudando: Angular
 - 📫 Contato: gustavodiego298@gmail.com
 - 😄 Pronouns: Ele/dele
 
